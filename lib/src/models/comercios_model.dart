@@ -43,6 +43,8 @@ class Comercio {
   String updatedAt;
   dynamic deletedAt;
 
+
+
 // constructor
   Comercio({
     this.id,
